@@ -1,0 +1,37 @@
+{
+  "name": "poisson_disc",
+  "version": "0.1.0",
+  "description": "Fast poisson disc sampling in arbitrary dimensions (poisson range, poisson sphere, etc) in node javascript / typescript",
+  "main": "dist/pdisc.es5.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StoneCypher/poisson_disc.git"
+  },
+  "keywords": [
+    "poisson",
+    "disc",
+    "range",
+    "sphere",
+    "poisson_disc",
+    "poisson_range",
+    "poisson_sphere",
+    "poisson-disc",
+    "packing",
+    "distribution",
+    "placement",
+    "noise",
+    "texture",
+    "generator",
+    "typescript",
+    "stonecypher"
+  ],
+  "author": "John Haugeland <stonecypher@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StoneCypher/poisson_disc/issues"
+  },
+  "homepage": "https://github.com/StoneCypher/poisson_disc#readme"
+}
